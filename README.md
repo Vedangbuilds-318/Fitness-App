@@ -94,3 +94,5 @@ Vedang Nagpure
 Built collaboratively using Flutter.
 🎯 Goal
 To make fitness simple, personalized, and accessible for everyone.
+
+..
